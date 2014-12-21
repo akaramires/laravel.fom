@@ -1,6 +1,3 @@
-FOM
-================
-
 ![](https://raw.githubusercontent.com/akaramires/laravel.fom/master/screenshot.png)
 
 ### Init Project
