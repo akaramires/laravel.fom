@@ -15,3 +15,5 @@ FOM
   4. Edit `app/assets/js/app.js` as needed
   5. Run `gulp js:pub` to regenerate JS
   6. Refresh in browser to see changes
+
+![](https://raw.githubusercontent.com/akaramires/laravel.fom/master/screenshot.png)
