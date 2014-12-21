@@ -1,4 +1,5 @@
-![](https://raw.githubusercontent.com/akaramires/laravel.fom/master/screenshot.png)
+FOM
+================
 
 ### Init Project
   3. `composer install`
