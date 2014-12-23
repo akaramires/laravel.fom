@@ -1,4 +1,4 @@
-FOM
+Laravel-Skeleton
 ================
 
 ### Init Project
